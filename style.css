@@ -108,9 +108,9 @@ h1 {
     font-weight: bold;
     width: 450px;
     text-align: center;
-    margin: 0px 275px 0px 275px;
+    margin: 0px 0px 0px 0px;
     position: absolute;
-    top: 600px;
+    top: 800px;
     left: 275px;
     color: #fff;
     letter-spacing: 3px;

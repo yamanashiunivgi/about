@@ -94,7 +94,7 @@ h1 {
     font-weight: normal;
     width: 800px;
     text-align: left;
-    margin: 400px 0px 0px 0px;
+    margin: 200px 0px 0px 200px;
     color: #000000;
     letter-spacing: 1px;
 }
@@ -124,7 +124,9 @@ h1 {
     font-weight: bold;
     width: 300px;
     text-align: center;
-    margin: 25px 150px 0;
+    position: absolute;
+    top:900px;
+    left:150px;
     letter-spacing: 2px;
 }
  
@@ -139,7 +141,9 @@ h1 {
     font-weight: bold;
     width: 300px;
     text-align: center;
-    margin: -50px 525px 0;
+    position: absolute;
+    top:900px;
+    left:850px;
     letter-spacing: 2px;
 }
  
